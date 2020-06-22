@@ -8,7 +8,8 @@ mobileApp.tables.add('GoalModel'); // Create a table for 'GoalModel' with defaul
 mobileApp.tables.add('TeamModel'); // Create a table for 'TeamModel' with default settings
 mobileApp.tables.add('PostModel'); // Create a table for 'PostModel' with default settings
 mobileApp.tables.add('ChallengeModel'); // Create a table for 'ChallengeModel' with default settings
-mobileApp.tables.add('PointModel'); // Create a table for 'ChallengeModel' with default settings
+mobileApp.tables.add('PointModel'); // Create a table for 'PointModel' with default settings
+mobileApp.tables.add('TeamsModel'); // Create a table for 'TeamsModel' with default settings
 
 
 app.use(mobileApp);
